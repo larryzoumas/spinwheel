@@ -43,36 +43,47 @@ body{
 }
 
 .container .one{
-	background-color: #3f51b5;
+	/* Analytisk */
+	background-color: #9A66CC;
 	left:50%;
 }
 .container .two{
-	background-color: #ff9800;
-	transform: rotate(45deg);
+	/* Teknisk */
+	background-color: #9822B0;
+	transform: rotate(36deg);
 }
 .container .three{
-	background-color: #e91e63;
-	transform:rotate(90deg);
+	/* Digital */
+	background-color: #FF55AA;
+	transform:rotate(72deg);
 }
 .container .four{
-	background-color: #4caf50;
-	transform: rotate(135deg);
+	background-color: #FF95CA;
+	transform: rotate(108deg);
 }
 .container .five{
-	background-color: #009688;
-	transform: rotate(180deg);
+	background-color: #F39C13;
+	transform: rotate(144deg);
 }
 .container .six{
-	background-color: #795548;
-	transform: rotate(225deg);
+	background-color: #F1C40F;
+	transform: rotate(180deg);
 }
 .container .seven{
-	background-color: #9c27b0;
-	transform: rotate(270deg);
+	background-color: #00CC99;
+	transform: rotate(216deg);
 }
 .container .eight{
-	background-color: #f44336;
-	transform: rotate(315deg);
+	background-color: #009999;
+	transform: rotate(252deg);
+}
+.container .nine{
+	background-color: #3F82F1;
+	transform: rotate(288deg);
+}
+.container .ten{
+	background-color: #1A468E;
+	transform: rotate(324deg);
 }
 
 .arrow{
